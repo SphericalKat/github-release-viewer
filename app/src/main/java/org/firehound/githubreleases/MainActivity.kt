@@ -2,6 +2,7 @@ package org.firehound.githubreleases
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import org.firehound.githubreleases.models.Release
 
 class MainActivity : AppCompatActivity() {
 
